@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá, aqui é o git da Débora Almeida👋
 
-- 🔭 Estudante de Informatica na FAETEC 
-- 🌱 Aprendendo ReacJS com TypeScript, JS, NodeJS, CSS3
+- 🔭 Estudante de Informatica para Intenet na FAETEC 
+- 🌱 Aprendendo ReacJS com TypeScript, JS, NodeJS, CSS3 (matérias escolares)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
