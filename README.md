@@ -19,4 +19,4 @@
   <a href="https://www.instagram.com/debora_7almeida/?next=%2F=="><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red" target="_blank"></a>
   <a href = "deboralmeidavieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<a href="https://www.botafogo.com.br/" target="_blank"><img align="center" alt="BOTAFOGO" height="24" width="23" img src="https://imagepng.org/wp-content/uploads/2018/02/escudo-do-botafogo.png"/></a>
+<a href="https://www.botafogo.com.br/" target="_blank"><img align="center" alt="BOTAFOGO" height="30" width="30" img src="https://imagepng.org/wp-content/uploads/2018/02/escudo-do-botafogo.png"/></a>
