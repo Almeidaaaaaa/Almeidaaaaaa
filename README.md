@@ -11,3 +11,10 @@
   <img align="center" alt="HB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="HB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+### Outras redes que vocês podem me encontrar
+
+<P>Algumas das minhas redes sociais.
+<div> 
+  <a href="https://www.instagram.com/debora_7almeida/?next=%2F=="><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red" target="_blank"></a>
+  <a href = "deboralmeidavieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
