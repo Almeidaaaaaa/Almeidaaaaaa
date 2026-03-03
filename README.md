@@ -1,7 +1,8 @@
 ### Olá, aqui é o git da Débora Almeida👋
 
-- 🔭 Estudante de Informatica para Intenet na FAETEC 
-- 🌱 Aprendendo ReacJS com TypeScript, JS, NodeJS, CSS3, HTML5 (matérias escolares)
+- 🎓 Técnica de Informatica para Web 
+- 💻 Cursando Engenharia de Software - UGB
+- 📚 Aprendendo e aprimorando as seguintes linguagens (HTML5, CSS3, JavaScript, Node.js, React) - Banco de dados (MySQL, PostgresQL)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
