@@ -16,7 +16,7 @@
 
 <P>Algumas das minhas redes sociais.
 <div> 
-  <a href="https://www.linkedin.com/in/débora-almeida-vieira-304021382/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/débora-de-almeida-vieira-304021382" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/debora_7almeida/?next=%2F=="><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red" target="_blank"></a>
   <a href = "deboralmeidavieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
